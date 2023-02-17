@@ -42,9 +42,7 @@ ChatGPT for knowledge articles PCF control can be used to create content of know
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Case Status changes;\
-:heavy_check_mark: Queue Item histories (Pick, Remove, Add);\
-:heavy_check_mark: Filter flow to hide case or queue item records;
+:heavy_check_mark: Generating content for knowledge articles;\
 
 ## :rocket: Technologies ##
 
@@ -57,14 +55,14 @@ The following tools were used in this project:
 ## :checkered_flag: Starting ##
 
 * Associate ChatGPT for Knowledge Articles control against a Dummy Field
-  <img alt="Associate Control" src="https://raw.githubusercontent.com/Krajpurohit/ChatGPTForKnowledgeArticles/master/Demo/images/Associate%20Control.PNG">
+  <img alt="Associate Control" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Associate%20Control.PNG">
 * Click on the button "Generate Content with ChatGPT"
-  <img alt="Click Button" src="https://raw.githubusercontent.com/Krajpurohit/ChatGPTForKnowledgeArticles/master/Demo/images/Click%20Button.PNG">
+  <img alt="Click Button" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Click%20Button.PNG">
 * Press enter or click button to request response from ChatGPT
-  <img alt="Send Request" src="https://raw.githubusercontent.com/Krajpurohit/ChatGPTForKnowledgeArticles/master/Demo/images/Send%20Request.PNG">
+  <img alt="Send Request" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Send%20Request.PNG">
 * Apply changes to replace content of Knowledge Article
-   <img alt="Apply Changes" src="https://raw.githubusercontent.com/Krajpurohit/ChatGPTForKnowledgeArticles/master/Demo/images/Apply%20Changes.PNG">
-   <img alt="Updated Content" src="https://raw.githubusercontent.com/Krajpurohit/ChatGPTForKnowledgeArticles/master/Demo/images/Updated%20Content.PNG">
+   <img alt="Apply Changes" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Apply%20Changes.PNG">
+   <img alt="Updated Content" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Updated%20Content.PNG">
 
 
 

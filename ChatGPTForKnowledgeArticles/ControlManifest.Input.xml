@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <manifest>
-  <control namespace="K10" constructor="ChatGPTForKnowledgeArticles" version="0.0.1" display-name-key="ChatGPT for Knowlegde Articles" control-type="virtual" >
+  <control namespace="K10" constructor="ChatGPTForKnowledgeArticles" version="0.0.2" display-name-key="ChatGPT For Knowlegde Articles" control-type="virtual" >
     <external-service-usage enabled="false">
     </external-service-usage>
     <property name="dummyField" display-name-key="Dummy Field" description-key="Dummy field for bound control" of-type="SingleLine.Text" usage="bound" required="true" />

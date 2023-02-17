@@ -29,7 +29,7 @@ export class ApiService {
       model: "text-davinci-003",
       prompt: this.prompt,
       temperature: 0.9,
-      max_tokens: 255,
+      max_tokens: 350,
       top_p: 1,
     });
     let response = completion.data.choices[0].text?.trimStart();

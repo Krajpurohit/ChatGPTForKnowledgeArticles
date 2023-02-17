@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="K10" constructor="ChatGPTForKnowledgeArticles" version="0.0.1" display-name-key="ChatGPT for Knowlegde Articles" control-type="virtual" >
+    <external-service-usage enabled="false">
+    </external-service-usage>
+    <property name="dummyField" display-name-key="Dummy Field" description-key="Dummy field for bound control" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="apiKey" display-name-key="Open AI API Key" description-key="Provide api key from open ai" of-type="SingleLine.Text" usage="input" required="true" />
+    <property name="propmptField" display-name-key="Prompt" description-key="Field to frame initial question to ChatGPT" of-type="SingleLine.Text" usage="bound" required="false" />
+    <property name="responseField" display-name-key="Response" description-key="Field to be updated with response recieved from ChatGPT" of-type="Multiple" usage="bound" required="true" />
+    <resources>
+      <code path="index.ts" order="1"/>
+      <platform-library name="React" version="16.8.6" />
+      <platform-library name="Fluent" version="8.29.0" />
+    </resources>
+  </control>
+</manifest>

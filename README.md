@@ -37,7 +37,7 @@
 
 ## :dart: About ##
 
-ChatGPT for knowledge articles PCF control can be used to create content of knowledge articles by using response from ChatGPT.
+ChatGPT for knowledge articles PCF control can be used to generate content for knowledge articles by using response received from ChatGPT.
 
 ## :sparkles: Features ##
 

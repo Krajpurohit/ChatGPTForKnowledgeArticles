@@ -53,7 +53,7 @@ The following tools were used in this project:
 
 ## :checkered_flag: Starting ##
 
-* Associate ChatGPT for Knowledge Articles control against a Dummy Field 
+* Associate ChatGPT for Knowledge Articles control against a Dummy Field  <br>
   <img alt="Associate Control" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Associate%20Control.png">
 * Click on the button "Generate Content with ChatGPT"
   <img alt="Click Button" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Click%20Button.png">

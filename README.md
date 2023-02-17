@@ -28,7 +28,6 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/Krajpurohit" target="_blank">Author</a>
@@ -54,7 +53,7 @@ The following tools were used in this project:
 
 ## :checkered_flag: Starting ##
 
-* Associate ChatGPT for Knowledge Articles control against a Dummy Field
+* Associate ChatGPT for Knowledge Articles control against a Dummy Field 
   <img alt="Associate Control" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Associate%20Control.png">
 * Click on the button "Generate Content with ChatGPT"
   <img alt="Click Button" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Click%20Button.png">

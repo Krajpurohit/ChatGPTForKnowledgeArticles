@@ -42,7 +42,7 @@ ChatGPT for knowledge articles PCF control can be used to create content of know
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Generating content for knowledge articles;\
+:heavy_check_mark: Generating content for knowledge articles
 
 ## :rocket: Technologies ##
 
@@ -55,20 +55,20 @@ The following tools were used in this project:
 ## :checkered_flag: Starting ##
 
 * Associate ChatGPT for Knowledge Articles control against a Dummy Field
-  <img alt="Associate Control" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Associate%20Control.PNG">
+  <img alt="Associate Control" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Associate%20Control.png">
 * Click on the button "Generate Content with ChatGPT"
-  <img alt="Click Button" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Click%20Button.PNG">
+  <img alt="Click Button" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Click%20Button.png">
 * Press enter or click button to request response from ChatGPT
-  <img alt="Send Request" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Send%20Request.PNG">
+  <img alt="Send Request" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Send%20Request.png">
 * Apply changes to replace content of Knowledge Article
-   <img alt="Apply Changes" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Apply%20Changes.PNG">
-   <img alt="Updated Content" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Updated%20Content.PNG">
+   <img alt="Apply Changes" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Apply%20Changes.png">
+   <img alt="Updated Content" src="https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/Demo/images/Updated%20Content.png">
 
 
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](https://github.com/Krajpurohit/ChatGPTForKnowledgeArticles/blob/master/LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/Krajpurohit" target="_blank">Ketan Rajpurohit</a>
